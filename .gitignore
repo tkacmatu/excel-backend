@@ -1,0 +1,6 @@
+#ignore these files
+excel
+excel.*
+*/
+.DS_Store
+.idea
